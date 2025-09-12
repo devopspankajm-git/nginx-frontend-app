@@ -1,4 +1,4 @@
-Part 1: Build & Run (with Error)
+Part 1: Build & Run
 
 Build the image:
 
